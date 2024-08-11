@@ -6,4 +6,4 @@
 * run the program with this command `owner@owner:/$ ./donut`
 * ctrl-c to exit
 
-https://www.a1k0n.net/2011/07/20/donut-math.html 
+Thank you - https://www.a1k0n.net/2011/07/20/donut-math.html 
