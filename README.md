@@ -1,7 +1,3 @@
-# 2dDonutSpinning
-ITS A DOUNT THATS 3D AND TWIRLS(C++ CODE)
-
-
 ## Try it out
 * install it
 * open terminal and open the file location where the program is saved
