@@ -1,7 +1,7 @@
 ## Try it out
 * install it
 * open terminal and open the location where the program is saved
-* type this command to compile the program
+* command to compile the program
  `owner@owner:/$ g++ donut.cpp -o donut`
 * run the program with this command `owner@owner:/$ ./donut`
 * ctrl-c to exit
