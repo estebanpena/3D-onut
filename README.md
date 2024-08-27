@@ -1,5 +1,5 @@
 ## Try it out
-* download
+* download by hitting the green code button-zip,etc.
 * open CLI and open the location where the program is saved
 * command to compile the program
  `owner@owner:/$ g++ donut.cpp -o donut`
