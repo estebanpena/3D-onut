@@ -1,10 +1,10 @@
 ## Try it out
-* Start by hitting the green ***Code*** button
+* start by hitting the green ***Code*** button
 * download zip
-* open the Terminal and open the location where the program is saved
-* here's the command to compile the program
+* now open the location where the program is saved on the Terminal
+* compile the program with this command
  `owner@owner:/$ g++ donut.cpp -o donut`
 * run the program with this command `owner@owner:/$ ./donut`
-* ctrl-c to exit
+* **Ctrl-C** to exit
 
 Enjoy - https://www.a1k0n.net/2011/07/20/donut-math.html 
