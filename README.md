@@ -1,4 +1,4 @@
-## Try it out(I used mac)
+## Try it out
 * download by hitting the green code button-choose download zip
 * open the Terminal and open the location where the program is saved
 * here's the command to compile the program
