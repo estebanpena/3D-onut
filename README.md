@@ -1,5 +1,6 @@
 ## Try it out
-* download by hitting the green ***Code*** button-choose download zip
+* Start by hitting the green ***Code*** button
+* download zip
 * open the Terminal and open the location where the program is saved
 * here's the command to compile the program
  `owner@owner:/$ g++ donut.cpp -o donut`
